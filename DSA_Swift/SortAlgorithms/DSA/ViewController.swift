@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        let _ = MergeSort()
+        let _ = QuickSort()
         // Do any additional setup after loading the view.
     }
 
